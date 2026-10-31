@@ -1,3 +1,6 @@
 pandas
 openpyxl
-requests
+unicodedata
+re
+google.colab.files
+io

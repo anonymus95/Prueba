@@ -1,6 +1,3 @@
 pandas
 openpyxl
-unicodedata
-re
-google.colab.files
-io
+ipywidgets
